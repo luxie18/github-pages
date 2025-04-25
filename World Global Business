@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Global Business</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            background-color: #87CEEB;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        h2 {
+            color: #2980b9;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🌍 Présentation de World Global Business 🌍</h1>
+    <p>World Global Business est une entreprise innovante qui offre une multitude de sources de revenus pour ses partenaires et membres. Voici un aperçu de nos principales activités :</p>
+
+    <ul>
+        <li>
+            <h2>1. MLM (Marketing de Réseau) 🤝</h2>
+            <p>Rejoignez notre réseau dynamique et bénéficiez d'opportunités de revenus via le marketing de réseau. En partageant nos produits et en recrutant de nouveaux membres, vous pouvez créer une source de revenus passive significative.</p>
+        </li>
+        <li>
+            <h2>2. Clé Business 🔑</h2>
+            <p>Profitez de notre programme Clé Business qui vous offre des outils et des ressources pour développer votre activité. Cela inclut des formations, des conseils personnalisés et un accès à un réseau professionnel étendu.</p>
+        </li>
+        <li>
+            <h2>3. Savonnerie 🧼</h2>
+            <p>Découvrez notre gamme de produits de savonnerie artisanale. Non seulement vous pouvez en vendre, mais vous pouvez également apprendre à créer vos propres savons, ajoutant ainsi une touche personnelle à votre entreprise.</p>
+        </li>
+        <li>
+            <h2>4. Électricité et Électronique ⚡</h2>
+            <p>Nous formons dans le domaine ce domaine pour participer à notre secteur de l’électricité et de l’électronique, où vous pouvez proposer des produits innovants et durables. Ce marché en pleine expansion offre de nombreuses opportunités de revenus.</p>
+        </li>
+        <li>
+            <h2>5. Cryptomonnaie 💰</h2>
+            <p>Engagez-vous dans le monde fascinant des cryptomonnaies. Que vous soyez novice ou expert, nous vous accompagnons dans l'investissement vous permettant ainsi de diversifier vos revenus.</p>
+        </li>
+    </ul>
+
+    <footer>
+        <p>Avec World Global Business, vous avez la possibilité d'explorer diverses avenues pour générer des revenus tout en développant vos compétences et votre réseau. Rejoignez-nous et transformez vos ambitions en réalité !</p>
+        <p>Contact : +242 05 531 40 00 🚀</p>
+        <a href= "https://www.WorldGlobalBusiness.com">Rejoignez-nous!!</a>
+    </footer>
+
+</body>
+</html>
